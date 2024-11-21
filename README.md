@@ -5,7 +5,7 @@ This project, built with an ATmega328P microcontroller, reads the voltage from a
 The project includes a .pdsprj file that can be used to simulate the code along with the HEX file in Proteus.
 
 Custom libraries created for this project include:
-- Interrupt handling
+- External Interrupt handling
 - Analog-to-Digital Converter (ADC)
 - 4-Digit 7-Segment LED Display
 - Timer management
